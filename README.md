@@ -18,7 +18,7 @@ Aplikasi belanja online yang menjual berbagai jenis kain tradisional Bali utaman
 - Rename Folder Menjadi 'e-ndek'
 - Jalankan XAMPP dan Start pada module Apache & Mysql
 - Buat Database dengan nama 'e-ndek' di localhost/phpmyadmin
-- Import file e-ndek.sql dalam folder buku-usaha ke database e-ndek
+- Import file e-ndek.sql dalam folder e-ndek ke database e-ndek
 - jalankan localhost/e-ndek
 
 
